@@ -55,6 +55,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL View Yapıları](https://muzafferbulut.github.io/posts/postgresql-views/)
+- [Ubuntu Üzerine PostgreSQL Kurulumu](https://muzafferbulut.github.io/posts/postgresql-installation-on-ubuntu/)
+- [Veri Tabanı Saldırıları ve Veri Tabanı Güvenliği](https://muzafferbulut.github.io/posts/veritabani-saldirilari-ve-veritabani-guvenligi/)
+- [PostGIS Sorgu Performansı Artırma Teknikleri](https://muzafferbulut.github.io/posts/postgis_performans/)
+- [PostgreSQL Mimarisi](https://muzafferbulut.github.io/posts/postgresql-mimarisi/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
