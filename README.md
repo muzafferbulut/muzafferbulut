@@ -55,11 +55,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NoSQL Veri Tabanı Yönetim Sistemleri](https://muzafferbulut.github.io/posts/nosql-database-management-systems/)
 - [PostgreSQL Trigger Yapıları](https://muzafferbulut.github.io/posts/postgresql-triggers/)
 - [PostgreSQL View Yapıları](https://muzafferbulut.github.io/posts/postgresql-views/)
 - [Ubuntu Üzerine PostgreSQL Kurulumu](https://muzafferbulut.github.io/posts/postgresql-installation-on-ubuntu/)
 - [Veri Tabanı Saldırıları ve Veri Tabanı Güvenliği](https://muzafferbulut.github.io/posts/database-security/)
-- [PostGIS Sorgu Performansı Artırma Teknikleri](https://muzafferbulut.github.io/posts/postgis_performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
