@@ -17,14 +17,5 @@ I specialize in building scalable **Web GIS applications** and optimizing **Spat
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzafferbulut&show_icons=true&theme=radical&hide_border=true" alt="Muzaffer's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafferbulut&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muzafferbulut/)
